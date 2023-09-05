@@ -34,6 +34,7 @@ I would like to paint my wall with the color `#ff0000` red.
 ## Simultaneously using bold and italic lettes
 ***Eli Stewart***
 
-## Specifying the use of italics words with a bold statement
+## Specifying the use of italics words within a bold statement
 **Eli _Stewart_ is me**
 
+### Using another type of header
