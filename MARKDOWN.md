@@ -41,3 +41,9 @@ I would like to paint my wall with the color `#ff0000` red.
 
 ### A quote
 >A quote in markdown
+
+### A block in markdown
+```
+A block in markdown
+
+```
